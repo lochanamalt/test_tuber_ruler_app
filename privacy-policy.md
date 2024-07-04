@@ -1,6 +1,5 @@
 # Privacy Policy for Tuber Ruler
 
-**Effective Date: [Insert Date]**
 
 ## 1. Introduction
 
@@ -24,18 +23,14 @@ We do not share your data with any third parties. All data processing is perform
 
 ## 5. User Rights
 
-As all data is processed locally on your device, you have full control over your data. You can delete the app at any time, which will remove all stored data from your device.
+As all data is processed locally on your device, you have full control over your data.
 
 ## 6. Data Security
 
 We take your privacy seriously and implement industry-standard security measures to protect your data. Since no data is transmitted off your device, the risk of data breaches is minimized.
 
-## 7. Changes to This Privacy Policy
-
-We may update our Privacy Policy from time to time. Any changes will be posted on this page with an updated effective date. We encourage you to review this policy periodically for any changes.
-
-## 8. Contact Us
+## 7. Contact Us
 
 If you have any questions or concerns about this Privacy Policy, please contact us at:
 
-[Your Contact Information]
+[email]
